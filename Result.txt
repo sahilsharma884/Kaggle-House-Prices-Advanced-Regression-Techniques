@@ -1,0 +1,4 @@
+All features + RF Model --> 0.19276
+Feature Selection + RF Model --> 0.18691
+All features + GD Model --> 0.20075
+Feature Selection + GD Model --> 0.15973
