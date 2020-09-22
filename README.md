@@ -5,19 +5,7 @@ Predict sales prices and practice feature engineering, RFs, and gradient boostin
 
 Software Used: Anaconda, Python 3.8
 
-<ol>
-<li>Once you download this zip  file. Extract it.</li>
-<li>Open Anaconda Command and go the pwd (Present working directory where you downloaded this project)</li>
-<li></li>
-</ol>
-
-```
-conda env create -f houseprediction.yml.
-```
-
-OR
-
-I have provided requirment.txt (if needed) and follows through this <a href='http://datumorphism.com/til/programming/python/python-anaconda-install-requirements/'>link</a>
+I have provided requirments.txt (or environment.yml)  (if needed).
 
 Description:
 ```
